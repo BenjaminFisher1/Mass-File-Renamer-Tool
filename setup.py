@@ -9,7 +9,7 @@ setup(
     ],
     entry_points={
         'console_scripts': [
-            'Mass-File-Renamer-Tool = Mass-File-Renamer-Tool.cli:main',
+            'mfrt = mfrt.cli:main',
         ],
     },
 )
