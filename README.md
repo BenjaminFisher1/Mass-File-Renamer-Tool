@@ -60,7 +60,7 @@ PowerShell
 mfrt --path C:\Users\you\Downloads --nameconvention holiday
 ```
 
-Expected behavior: files in the directory will be renamed to `holiday_1.ext`, `holiday_2.ext`, etc., preserving original extensions. The tool only renames regular files in the specified directory and does not recurse into subdirectories.
+Files in the directory will be renamed to `holiday_1.ext`, `holiday_2.ext`, etc., preserving original extensions. The tool only renames regular files in the specified directory and does not recurse into subdirectories.
 
 ### Safety notes
 
